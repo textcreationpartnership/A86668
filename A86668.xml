@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Halifax Lavv translated to Oxon: or, the nevv visitors Iustice, displayed in a letter to a friend, concerning the late reformation begun there by the E. of Pembroke. More particularly in Brasen-Nose Colledge, and S. Johns.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86668</idno>
+            <idno type="STC">Wing H323</idno>
+            <idno type="STC">Thomason E437_13</idno>
+            <idno type="STC">ESTC R204707</idno>
+            <idno type="EEBO-CITATION">99864172</idno>
+            <idno type="PROQUEST">99864172</idno>
+            <idno type="VID">116394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116394)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Halifax Lavv translated to Oxon: or, the nevv visitors Iustice, displayed in a letter to a friend, concerning the late reformation begun there by the E. of Pembroke. More particularly in Brasen-Nose Colledge, and S. Johns.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Madan.</note>
+                  <note>The title relates the arrival of the new Chancellor (the earl of Pembroke) to 'Gibbet Law' at Halifax, "by which if any one were found in unlawful possession of goods valued at more than 13 and 1/2 d., he was tried by the burghers and, if found guilty and confessed, he was executed .. by a kind of guillotine."</note>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Phillip Herbert, --  Earl of, 1584-1650 --  Early works to 1800.</term>
+               <term>University of Oxford --  History --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116394:1" rendition="simple:additions"/>
+            <p>HALIFAX LAW TRANSLATED TO OXON: OR, The Nevv Viſitors Iuſtice, Diſplayed in a Letter to a Friend, con<g ref="char:EOLhyphen"/>cerning the late Reformation begun there by the <hi>E.</hi> of <hi>Pembroke.</hi>
+            </p>
+            <p>More particularly in <hi>Braſen-Noſe</hi> Colledge, and <hi>S. Johns.</hi>
+            </p>
+            <p>Printed in the Year 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116394:2"/>
+            <pb facs="tcp:116394:2"/>
+            <p>YOur laſt Letters, (Gentle Sir) ſhew me that you keep cloſe to your old wont, and are ſtil as eager after Newes as other Men are after Meat. You ſhew me that you would be ſatis<g ref="char:EOLhyphen"/>fied how it fareth with your <hi>Mother</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> in this new-found <hi>Viſitation:</hi> How with your <hi>Nurſe</hi> the Colledge of <hi>Braſen Noſe,</hi> where you were trained: How with the <hi>Preſi<g ref="char:EOLhyphen"/>dent</hi> of <hi>S. John's,</hi> unto whom you profeſſe your ſelfe obliged for ſome ſpecial Favour afforded unto you in the renewing of your Leaſe from the Church of <hi>Sarum,</hi> by his meanes as <hi>Dean.</hi> I ſee your deſire, and the Method how you would be ſatisfied, and I ſhall endeavour for the ſtaying of your ſtomake (untill ſome one of more leaſure may cook you out a full Meal) to give you a Taſte of each of thoſe Diſhes, which you have named unto me.</p>
+            <p>On <hi>Tueſday, April</hi> 11. My Lord of <hi>Pembroke</hi> came to <hi>Oxon,</hi> in the <hi>common expectation,</hi> attended with Gentlemen of the Coun<g ref="char:EOLhyphen"/>trey, and Men of ſpeciall Ranke and Quality; but <hi>in very deed</hi> ac<g ref="char:EOLhyphen"/>companied with a very lanke and mean Retinue: before him came five <hi>Beadles,</hi> that would be, and the <hi>Clergy Viſitours,</hi> with ſome of their <hi>Seekers,</hi> who were in hope to rake ſomething out of the Rubbiſh, when their <hi>Maſters</hi> had ruined the <hi>Colledges:</hi> there followed his <hi>Honour</hi> ſome <hi>Gentlemen</hi> of his own Houſhold, and thence unto <hi>Merton Colledge, an Herde of Towneſmen</hi> and ragged Gownes, who were entertained (as they conceive) all alike with an Oration from M. <hi>Cheynel,</hi> he telling them, that <hi>Engliſhmen</hi> were to be entertained in the <hi>Engliſh</hi> Tongue, and ſo after ſome few Words anſwerable to this latter part of his Auditory, he ſhut his Mouth, and the Roat came backe with open Mouth, that they had often ſeen Sir <hi>Cranion</hi> or the <hi>Fly</hi> at <hi>Whitſuntide fetched in by the Cookes of Oxon,</hi> with much more grace and ſolemnity.</p>
+            <p>On <hi>Wedneſday,</hi> his Lordſhip was brought to the <hi>Convocation-houſe,</hi> his five Staffe-leſſ <hi>Beadles</hi> preceding with empty hands, and his five <hi>Viſitours</hi> with empty heads, purſuing his Honour, it is agreed theſe later were empty heads but it was diſcovered by a ſecret Spy, that <hi>Langley a broken Tailour</hi> who firſt led the <hi>Beadles</hi> without Staves had a Needle in his hand, which he bore (they ſay) as Enſigne that the <hi>Viſitours</hi> were now come, who meant to botch up the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> or otherwiſe as the onely proſſe, that theſe Men were the Fellowes indeed, who were like to make good the
+<pb facs="tcp:116394:3"/>
+               <hi>Latin</hi> Proverbe, <hi>Rem acu targe,</hi> and to put out the Eye of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> with their Needle.</p>
+            <p>On <hi>Thurſday</hi> his Lordſhip went to divers Colledges with theſe Nothings before and behind him; who to make themſelves paſſe for ſomething, had joyned unto them a Torne-breech'd Smith with a Cyclopian Sledge or Hammer: and that was the thing which made the terrible noyſe, and proclaimed thoſe Viſitors what they are, the Enemies to all <hi>Doores</hi> which might keep in Sober men and Students. This <hi>Magdalen</hi> Colledge, <hi>Alſoules,</hi> and <hi>Trinity</hi> Colledge were made ſenſible of; whoſe doors being broken down to the ground, were made the only things pertaining to Learning which ſell down and worſhiped theſe, thoſe, thoſe, &amp;c.</p>
+            <p>On <hi>Friday</hi> his Lordſhip went out of the Town, not one <hi>Begger</hi> retarding his paſſage with a breath to beg for an Almes; Some unhappy <hi>Iacks</hi> have collected, that either the poor were very glad to be rid of their new Chancellor, or other wiſe, that they had reſol<g ref="char:EOLhyphen"/>ved to take Almes at no hand, but from whence they might like<g ref="char:EOLhyphen"/>wiſe hope for a bleſſing, But that <hi>I</hi> may not ſurfeit you while I am giving you the Taſt I promiſed, you ſhall now heare the laſt of this Pageantry, or <hi>ante-dated May-game.</hi>
+            </p>
+            <p>The Chancellor being departed, the younger Frye ſpend their Mouths and judgements upon him, That he came into the Towne like a <hi>Botcher,</hi> proceded to knock down Learning like a <hi>Butcher,</hi> and went out like a <hi>Pinch-penny.</hi> But theſe were the extravagan<g ref="char:EOLhyphen"/>cies of younger and wilder Fancies: The more Authentick and Sober men were very ſparing of their words, but ſure they payd it with <hi>thinking.</hi> Yet ſome of them were heard to ſay at a cloſe meeting, that it was a marvellous condeſcention for a <hi>Gentleman</hi> of ſo <hi>Noble Birth,</hi> and ſo much <hi>Honour</hi> to be led up and downe a City in the execution of a <hi>Petty-Conſtables</hi> Office, for the brea<g ref="char:EOLhyphen"/>king open of Gates and Doores according as a company of Cock<g ref="char:EOLhyphen"/>braind men, a Medlye or Compoſition of <hi>Fooles, Knaves,</hi> and <hi>Madmen</hi> ſhould direct him. How ſay you? Is not your Mother the Vniverſity in a ready way to become a famous and <hi>glorious.</hi> Vniverſity, juſt after the ſame manner as her Foſter-Father hath been made a moſt famous and <hi>glorious</hi> King.</p>
+            <p>Your <hi>Nurſe</hi> hath been long ſick in her head, but little looked for ſuch Phyſitians, who cure not but by killing. The plaine and breife Engliſh is this. Vpon <hi>Thurſday</hi> night laſt the Viſitors came unto <hi>Braſen-noſe</hi> Colledge, went into the Hall, cauſed the Order
+<pb facs="tcp:116394:3"/>from the Committee above to be read, wherein it was declared, that <hi>Dr. Ratcliffe</hi> was thought guilty by the Commons of high <hi>Contempt</hi> of Parliament, and thereupon reſolved that he ſhould be removed from being Principall, and Mr. <hi>Greenwood</hi> ſhould bee made Principall in his place. The Viſitors without more adoe (D. <hi>Ratcliffe</hi> the Principall-remaining in full poſſeſſion, and his place being never declared actually voyd) put Mr. <hi>Greenwood</hi> into poſ<g ref="char:EOLhyphen"/>ſeſſion. But you muſt not call this an Error among them, with whom it hath ever paſſed currant, that the houſe which they have a mind unto, admitteth not of the diſtinction of <hi>Plena</hi> and <hi>Vacua, Voidable</hi> and <hi>Voyded.</hi> But is as pervious to theſe holy men, as is the aire to a celeſtiall body, or the light. Well Sir, the Earle of <hi>Pem<g ref="char:EOLhyphen"/>broke</hi> telleth Mr. <hi>Greenwood</hi> out of the Vn-eccing Chaire, which ruleth at the high Meſſe at <hi>Braſen-noſe</hi> that he was Principal. And Mr. <hi>Cheynell</hi> immediately telleth my Lord, that he muſt now riſe out of the Chair, and give Mr. <hi>Greenwood</hi> the place. The firſt Pre<g ref="char:EOLhyphen"/>ſident that any called Chancellor gave way to any of the Vniver<g ref="char:EOLhyphen"/>ſity in any place of the Vniverſity. But the headie <hi>Cheynell</hi> would have it ſo, and the good dutifull Lord obeyed, and came out of the Chaire, and ſet Mr. <hi>Greenwood</hi> in it; and then Mr. <hi>Green<g ref="char:EOLhyphen"/>wood</hi> came out, and both of them together went out of the Colledges; ſo they were in and out, and out and in, and out throughout.</p>
+            <p>Doctor <hi>Baylie</hi> at St. <hi>Johns</hi> had ſome faire play for his Preſident<g ref="char:EOLhyphen"/>ſhip: But little better ſucceſſe. He met the blow which was to ſmite him beſide his Head-ſhip in the Quadrangle; and ſo was taken by the Earl of <hi>Pembroke</hi> and the Viſitors into the Colledge. Hall, and admitted to heare his Doome, the Fatall and irreſpective Decree of the Committee, which condemneth and executeth be<g ref="char:EOLhyphen"/>fore men have done any Evill; and cannot be prevented though you ſhould do never ſo much Good.</p>
+            <p>
+               <hi>Mutatis mutandu,</hi> Names and the like, what was read at other Colledges was repeated at St. <hi>Johns,</hi> and the Doctor required by the <hi>Earle</hi> of <hi>Pembrooke</hi> to put in his Anſwer: Which was as ſoon done as demanded: The Doctor inſtantly replying, That he con<g ref="char:EOLhyphen"/>ceived the Honourable Houſes of Parliament had never either ſeen or heard the Anſwer which he had formerly in writing given up unto the prentending Viſitors of <hi>Oxford.</hi> His reaſon this; For that he had humbly preſented in that Paper 8. ſeverall Clauſes of <hi>Statute,</hi> which bound him by a <hi>Corporall Oath,</hi> and the reſt of the
+<pb facs="tcp:116394:4"/>Fellowes of that Colledge, to admit of no other Viſitors under paine of Perjury and Expulſion from the Colledge for ever, then the Viſitor preciſely named in the Statute. The words running all along, <hi>Nulli alij nec aliis ſub penâ perjurij &amp; amotionis perpetuae, ne admittant,</hi> with exception againſt <hi>Quemcunque</hi> and <hi>Quoſcunque. Alium vel alsos, intra vel extra Collegium, tacite vel expreſſe, ſed eis reſiſtam expreſſè</hi> &amp;c. And more as my Curioſitie hath ſince been witneſſe of: I prevailing with a Fellow of that Houſe to ſhew me the Anſwer which the Doctor put in to the Viſitors, whereof he had a Copy. Whereto the Doctor further added, That in the Anſwer returned by him to the Viſitors, he had humbly beſought them ſo far to mediate with the Parliament, in the behalfe of him<g ref="char:EOLhyphen"/>ſelfe and his Colledge, as that hee and they might be referred for ſtrict examination upon any accuſation commenced againſt them, unto any Court of Iuſtice in the Kingdom, or be any other wayes moſt ſtrictly Sifted and Adjudged, ſave only by this Courſe in pre<g ref="char:EOLhyphen"/>ſent propounded: Which, upon their entertainement of it, mani<g ref="char:EOLhyphen"/>feſtly involved them in Perjury; and for this one very Act of Sub<g ref="char:EOLhyphen"/>miſſion rendred them ſo obnoxious, that if no other Argument of Offence could be poſſibly made good againſt them, yet theſe Viſitors might have recourſe to this act of their Submiſſion; and for this juſtly accuſe, convince and condemne them of Perjury, and ac<g ref="char:EOLhyphen"/>cordingly ſtatutably amove and expell them for ever our of their Colledges. The Statutes of our particular Colledges are all I beleeve like unto theſe: Ours (I am ſure) are, and ſo I preſume our ſeverall Pleas do, and muſt reſpectively accord with this of the Doctors. This firſt reply of the Doctors was received by the Earle with this Anſwer, that the Commiſſioners above had inter<g ref="char:EOLhyphen"/>preted him guilty of high Contempt, and for an adjunct, avoid<g ref="char:EOLhyphen"/>ing of this firſt reply of the Doctors, it was avouched by Mr. <hi>Wilkinſon,</hi> that the Committe above had ſeen or heard his Anſwer; which made ſome of us who ſtood by ome what to wonder at the acuteneſſe of the Committee, who out of a mans tenderneſſe not to be Perjur'd, and his voluntary Provocation to be tryed by any Publike courſe of Law in the Kingdome, ſhould extract the guilt of high Contempt againſt the authority of Parliament. But the Doctor eaſily waved this firſt Plea, and upon the Earles Allegation of the Committees judgement, being by the Earle urged to further Anſwer, then openly called to his Lord<g ref="char:EOLhyphen"/>ſhip and the whole company of ſome hundreds preſent
+<pb facs="tcp:116394:4"/>to witneſſe, that however the Committee were pleaſed to interpret him, and his paſt or words or deeds, that hee tooke God to witneſſe that he was moſt ready to ſubmit to all authority, and in the preſent and heretofore he is and had been ready to ſubmit unto the Orders of this Par<g ref="char:EOLhyphen"/>liament in all things which conſiſted with the ſafety of his <hi>Conſcience</hi> and <hi>Lively-hood;</hi> For the Rationality wherof, he firſt referred to the law of <hi>God</hi> and his <hi>Son Chriſt;</hi> and for the other to the law of <hi>Nature</hi> and this <hi>Kingdom.</hi>
+            </p>
+            <p>And here he tooke the Liberty to enlarge himſelfe, that the things hee craved were, Firſt, the liberty of a <hi>Chriſtian;</hi> to wit, that he might not be forced to do any thing contrary to the Law of God and his Son <hi>Chriſt.</hi> In particular that he might not be forced to Forſwear himſelf. Secondly, the Liberty of a <hi>Free-born Subject</hi> granted in <hi>Magna Charta</hi> by <hi>H.</hi> 3. received by <hi>Ed.</hi> 3. continued by al Parliaments from <hi>H.</hi> 3. more preciſely renewed in the 3. <hi>of K. Charles,</hi> where his Lordſhip thought it ht to crave the ſame by himſelfe from the King, and to grant it to other Subjects as a Peere and Member of that Parliament.</p>
+            <p>The Doctor to bring himſelfe and his Diſcourſe home to the buſineſſe in agitation, obſerved that there were punctually two things required of him in the preſent Viſitation. Firſt, that he ſhould ſubmit to theſe Viſitors. The ſecond, that he ſhould for non-ſubmitting diveſt <hi>himſelfe of all Emolu<g ref="char:EOLhyphen"/>ments,</hi> and remove <hi>himſelfe out of the Colledge:</hi> to each of which he regeſt<g ref="char:EOLhyphen"/>ed in order. Firſt, that by the firſt <hi>he muſt be enforced to involve himſelfe in Perjury:</hi> and <hi>for that he plainly profeſſed</hi> that no Authority under the Sun ſhould prevail with him ſo to do, and thereby to loſe the <hi>Liberty of a Chriſtian,</hi> and incur the main <hi>hazard of his ſoul</hi> For the other he appealed to his Lordſhip and all the by-ſtanders, whether it could be adjudged reaſon<g ref="char:EOLhyphen"/>able that he ſhould lend, or arme, or knife to the cutting of his own throat? Divers other things were alleaged by the Doctor, which though they had no preſent anſwer, yet they obtained promiſe of anſwer from ſome Lawyer preſent, when they ſhould come again to viſit: that is, when the Doctor ſhall be abſolutely turn'd out, and not there to reply. His Lordſhip for con<g ref="char:EOLhyphen"/>cluſion vouched a ſaying of the old Lord <hi>Burleight,</hi> that <hi>A Parliament could do any thing but turne a man into a woman, and a woman to a man.</hi> Whereat the <hi>Westminſter</hi> Lads who know <hi>Hide Parke</hi> and the <hi>Spaing Garden,</hi> and that my Lord had in his younger daye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made that eaſie enough, laughed in their ſheves: and the company were now to wait on his Lordſhip unto the Pre<g ref="char:EOLhyphen"/>ſidents Lodging, where he meant formally to diſpoſſeſſe the Doctor and induct M <hi>Cheynel,</hi> in the Hall was the Doctors wife and children, on whom Sir <hi>Nath. Brent</hi> was pleaſed to caſt a favourable eye, and drawing towards Mrs <hi>Baily</hi> while the Doctor was talking with my Lord, moved her to ac<g ref="char:EOLhyphen"/>cept of a fortnight for removal of her ſick children and goods; ſhe replied, leſſe than a moneth would not ſuffice, the Lord over-hearing the diſcourſe, interponed, and after ſome words uſed
+<pb facs="tcp:116394:5"/>by his Lordſhip to Mis <hi>Baily,</hi> profeſſed to the Doctor that he was willing to yield him any fa<g ref="char:EOLhyphen"/>vour, and would conſider with the Viſitors, what might be done for him. The Doctor civilly acknowledged his Lordſhips proneneſſe to favour him; but in this particular he renounced fa<g ref="char:EOLhyphen"/>vour, and profeſſed that he onely expected juſtice. The Lord replied, he muſt turne the Doctor out, and give M. <hi>Cheynel</hi> poſſeſſion. The Doctor replied he might uſe his pleaſure, but he hoped his Lordſhip did not expect that he or could or would contribute to his own prejudice. Much p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate theſe was, but <hi>in fine</hi> they left the Doctor without a formal Voydance, &amp; with ſome ſhew that a moneth ſhould be indulged for the removal of his goods, &amp; we conceived it might be ſo.</p>
+            <p>Yet ſmee we hear, that the <hi>Viſitors</hi> have agreed, and will print the ſame, that Doctor <hi>Barly</hi> upon condition of compliance with M. <hi>Cheynell,</hi> and the like, ſhall enjoy part of his Lodging for a Moneth, being deprived of all other Emoluments. How the Doctor will bear this (whom we know to be of a natural ſtoutneſſe, and well ſetled upon his Principles) we know not: but we thinke him very much miſtaken by the <hi>Viſitors,</hi> who put him to ſtoop to one ſo much belovv him, and to derive his Water from a <hi>ſtinking Chan<g ref="char:EOLhyphen"/>nell,</hi> as yet he is in the Colledge, but providing (I muſt tell you) ſuddenly to remove his Goods. And truly I muſt further adde, that my ſelfe, though yet unqueſtioned, am not like to hold long the Place I obtained vvhen I left <hi>Braſen Noſe.</hi> I vvill not have any Fellovvſhip vvith and among theſe Wretches, into vvhoſe hearts the Devil I fear hath entred, and filled them full of all iniquity, that he may bring them to deſtruction both of body and ſoul. The God of Heaven purge their hearts from this Gall of bitterneſſe, and loſe them from this bond and Covenant of iniquity: otherwiſe, God preſerve your and my ſoul that they enter not at any time into their Coun<g ref="char:EOLhyphen"/>ſels.</p>
+            <closer>
+               <signed>So I am yours.</signed>
+               <dateline>
+                  <date>
+                     <hi>Oxen, April</hi> 17. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>POSCRIPT. <hi>One pretty odde Paſſage there was betwixt Sir</hi> Will. Cob <hi>and the Doctor, and you ſhall have it for Marmalade to cloſe up your ſtomacke. The Doctor ſtrongly aſſevering ſomething, ſaid, as I thinke</hi> In good Faith; <hi>Sir</hi> Wil. <hi>harving ruminated a good ſpace on the buſineſſe, at length as in aneztaſie cries out,</hi> Blaſplemy, horrid blaſphemy, Is there never a Iuſtice of Peace here? <hi>This made a general ſilence, untill the Doctor ſpake to Sir</hi> William, <hi>and deſired to know, what it was that cauſed him thus to amuſe the Company, Sir</hi> Will. <hi>re<g ref="char:EOLhyphen"/>plied The Doctor had blaſphemed. The Doctor asketh, In what? The Knight re<g ref="char:EOLhyphen"/>plied, In ſwearing by your Faith. The Doctor ſaid, He did not remember that he <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> uſed thoſe words, but admit he had, he deſired to know where the blaſphemy <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. In this, ſaid the Knight, for that you have ſworne by that which is none of your own, that is your Faith. How, ſaid the Doctor? By your good leave Sir</hi> Wil. <hi>my Faith <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mine own, and if you mean to be ſaved, you muſt get you a Faith of your own, it will be a hard matter for you to live by the Faith of another. Yea, find the Knight, Your Faith is none of your own, it is the Gift of God. Then re<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed the Doctor, It is ſo much the more mine own, for what freer than gift? In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, Sir</hi> Will: <hi>you are here quite beſide the Cuſhion. I confeſſe, replied Sir</hi> Wil. <hi>that I'am no Doctor. True, ſaid the Doctor, nor Phiſician. And ſo the Tongue <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>bat ended, and the Foyles were laid down on both ſider,</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
